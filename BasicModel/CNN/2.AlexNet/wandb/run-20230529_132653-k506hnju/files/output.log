@@ -1,0 +1,12 @@
+
+Training start:
+Epoch 0: train accuracy = 0.4972,train loss = 1.3471; test accuracy = 0.7371, test loss = 0.7301
+Epoch 1: train accuracy = 0.7538,train loss = 0.6608; test accuracy = 0.7936, test loss = 0.5567
+Epoch 2: train accuracy = 0.7960,train loss = 0.5444; test accuracy = 0.8187, test loss = 0.4888
+Epoch 3: train accuracy = 0.8201,train loss = 0.4801; test accuracy = 0.8402, test loss = 0.4313
+Epoch 4: train accuracy = 0.8384,train loss = 0.4371; test accuracy = 0.8509, test loss = 0.4176
+Epoch 5: train accuracy = 0.8506,train loss = 0.4052; test accuracy = 0.8564, test loss = 0.3918
+Epoch 6: train accuracy = 0.8608,train loss = 0.3799; test accuracy = 0.8672, test loss = 0.3671
+Epoch 7: train accuracy = 0.8683,train loss = 0.3604; test accuracy = 0.8715, test loss = 0.3558
+Epoch 8: train accuracy = 0.8746,train loss = 0.3460; test accuracy = 0.8792, test loss = 0.3343
+Epoch 9: train accuracy = 0.8796,train loss = 0.3316; test accuracy = 0.8777, test loss = 0.3411

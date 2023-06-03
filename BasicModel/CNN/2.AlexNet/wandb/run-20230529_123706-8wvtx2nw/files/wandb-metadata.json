@@ -1,0 +1,43 @@
+{
+    "os": "Windows-10-10.0.22621-SP0",
+    "python": "3.9.16",
+    "heartbeatAt": "2023-05-29T04:37:07.990758",
+    "startedAt": "2023-05-29T04:37:06.513995",
+    "docker": null,
+    "cuda": null,
+    "args": null,
+    "state": "running",
+    "program": "<python with no main file>",
+    "host": "LAPTOP-GKR4QELI",
+    "username": "ZYQ",
+    "executable": "d:\\Software\\Anaconda\\envs\\d2l\\python.exe",
+    "cpu_count": 14,
+    "cpu_count_logical": 20,
+    "cpu_freq": {
+        "current": 2700.0,
+        "min": 0.0,
+        "max": 2700.0
+    },
+    "cpu_freq_per_core": [
+        {
+            "current": 2700.0,
+            "min": 0.0,
+            "max": 2700.0
+        }
+    ],
+    "disk": {
+        "total": 500.49608993530273,
+        "used": 406.22045135498047
+    },
+    "gpu": "NVIDIA GeForce RTX 3050 Laptop GPU",
+    "gpu_count": 1,
+    "gpu_devices": [
+        {
+            "name": "NVIDIA GeForce RTX 3050 Laptop GPU",
+            "memory_total": 4294967296
+        }
+    ],
+    "memory": {
+        "total": 15.730949401855469
+    }
+}

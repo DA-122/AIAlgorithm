@@ -1,0 +1,31 @@
+Lenet(
+  (conv1): Conv2d(1, 6, kernel_size=(5, 5), stride=(1, 1), padding=(2, 2))
+  (avg_pooling1): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (conv2): Conv2d(6, 16, kernel_size=(5, 5), stride=(1, 1))
+  (avg_pooling2): AvgPool2d(kernel_size=2, stride=2, padding=0)
+  (flatten): Flatten(start_dim=1, end_dim=-1)
+  (dense1): Linear(in_features=400, out_features=120, bias=True)
+  (dense2): Linear(in_features=120, out_features=84, bias=True)
+  (dense3): Linear(in_features=84, out_features=10, bias=True)
+)
+<class 'torch.Tensor'> torch.Size([6, 1, 5, 5])
+<class 'torch.Tensor'> torch.Size([6])
+<class 'torch.Tensor'> torch.Size([16, 6, 5, 5])
+<class 'torch.Tensor'> torch.Size([16])
+<class 'torch.Tensor'> torch.Size([120, 400])
+<class 'torch.Tensor'> torch.Size([120])
+<class 'torch.Tensor'> torch.Size([84, 120])
+<class 'torch.Tensor'> torch.Size([84])
+<class 'torch.Tensor'> torch.Size([10, 84])
+<class 'torch.Tensor'> torch.Size([10])
+Training start:
+Epoch 0 training accuracy:0.1020, training loss2.3217
+Epoch 1 training accuracy:0.4387, training loss1.4480
+Epoch 2 training accuracy:0.6553, training loss0.8653
+Epoch 3 training accuracy:0.7209, training loss0.7155
+Epoch 4 training accuracy:0.7514, training loss0.6406
+Epoch 5 training accuracy:0.7725, training loss0.5892
+Epoch 6 training accuracy:0.7892, training loss0.5464
+Epoch 7 training accuracy:0.8044, training loss0.5132
+Epoch 8 training accuracy:0.8161, training loss0.4875
+Epoch 9 training accuracy:0.8262, training loss0.4670

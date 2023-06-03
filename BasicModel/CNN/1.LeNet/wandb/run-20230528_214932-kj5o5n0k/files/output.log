@@ -1,0 +1,12 @@
+
+Training start:
+Epoch 0 training accuracy:0.1016, training loss2.3237
+Epoch 1 training accuracy:0.3321, training loss1.7236
+Epoch 2 training accuracy:0.6282, training loss0.9243
+Epoch 3 training accuracy:0.7042, training loss0.7572
+Epoch 4 training accuracy:0.7440, training loss0.6572
+Epoch 5 training accuracy:0.7677, training loss0.5971
+Epoch 6 training accuracy:0.7875, training loss0.5498
+Epoch 7 training accuracy:0.8034, training loss0.5140
+Epoch 8 training accuracy:0.8155, training loss0.4871
+Epoch 9 training accuracy:0.8257, training loss0.4657
